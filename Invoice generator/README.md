@@ -16,6 +16,7 @@ The tool is build in excel (version: 2509 Build 16.0.19231.20138) with Virtual B
     5.5 (optional) if inserted data is invalid, please use "create a new invoice" to start the process over
     5.6 Click "Save and export to PDF" button
 6. Send invoices to customers by clicking "Send invoices to customers" button
+7. If needed, an invoice can be cancelled with "Cancel an invoice" button
 
 **Buttons functionality**
 Save and export to PDF - Creates a record of the invoice in "Record of Invoices" tab and exports it to PDF file which is stored in ./invoices/ PDF files are name as follow: "(invoice number) - (customer name)" for example " 1001 - Rommold GmbH.pdf". After that it clears the template, so a new invoice can be created
