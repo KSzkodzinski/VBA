@@ -4,23 +4,23 @@ Purpose of this tool is to create invoices, store them and send to customers
 The tool is build in excel with Virtual Basic for Application (VBA). Created macros are assigned to buttons for better user experience. Each macro inform the user about results
 
 ## Preview (Screenshots)
-> Below are screenshots showing the main views of the report.
 
-Template to fill in excel
+
+> Template to fill in excel
 ![Template](Images/Template.png)
 
 
-Created invoice
+> Created invoice in pdf format
 ![Invoice](Images/Invoice.png)
 
 
-Invoice cancelation
+> Invoice cancelation
 ![Invoice](Images/Cancel1.png)
 
 ![Invoice](Images/Cancel2.png)
 
 
-Example error message
+> Example error message
 ![Invoice](Images/Error.png)
 
 
