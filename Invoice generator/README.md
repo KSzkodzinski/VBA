@@ -6,21 +6,21 @@ The tool is build in excel with Virtual Basic for Application (VBA). Created mac
 ## Preview (Screenshots)
 
 
-# Template to fill in excel
+**Template in excel**
 ![Template](Images/Template.png)
 
 
-# Created invoice in pdf format
+**Created invoice in pdf format**
 ![Invoice](Images/Invoice.png)
 
 
-# Invoice cancelation
+**Invoice cancelation**
 ![Invoice](Images/Cancel1.png)
 
 ![Invoice](Images/Cancel2.png)
 
 
-# Example error message
+**Example error message**
 ![Invoice](Images/Error.png)
 
 
