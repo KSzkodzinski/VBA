@@ -1,4 +1,4 @@
-# Power BI Portfolio
+# VBA Portfolio
 
 Hello! Welcome to my VBA portfolio. 
 
