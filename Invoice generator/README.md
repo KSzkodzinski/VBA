@@ -1,9 +1,30 @@
-**Invoice generator**
+## Invoice generator
 Purpose of this tool is to create invoices, store them and send to customers
 
-The tool is build in excel (version: 2509 Build 16.0.19231.20138) with Virtual Basic for Application (VBA). Created macros are assigned to buttons for better user experience. Each macro inform the user about results
+The tool is build in excel with Virtual Basic for Application (VBA). Created macros are assigned to buttons for better user experience. Each macro inform the user about results
 
-**How to use it**
+## Preview (Screenshots)
+> Below are screenshots showing the main views of the report.
+
+Template to fill in excel
+![Template](Images/Template.png)
+
+
+Created invoice
+![Invoice](Images/Invoice.png)
+
+
+Invoice cancelation
+![Invoice](Images/Cancel1.png)
+
+![Invoice](Images/Cancel2.png)
+
+
+Example error message
+![Invoice](Images/Error.png)
+
+
+## How to use it
 1. Download the excel file
 2. Open the file and enable macros
 3. Adjust company details
@@ -18,7 +39,7 @@ The tool is build in excel (version: 2509 Build 16.0.19231.20138) with Virtual B
 6. Send invoices to customers by clicking "Send invoices to customers" button
 7. If needed, an invoice can be cancelled with "Cancel an invoice" button
 
-**Buttons functionality**
+## Buttons functionality
 Save and export to PDF - Creates a record of the invoice in "Record of Invoices" tab and exports it to PDF file which is stored in ./invoices/ PDF files are name as follow: "(invoice number) - (customer name)" for example " 1001 - Rommold GmbH.pdf". After that it clears the template, so a new invoice can be created
 
 Send invoices to customers - Sends all unsent invoices to customers with use of Outlook. Destination address is picked from customer email address in "Customers" tab
